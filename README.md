@@ -1,5 +1,3 @@
-# 62teknologi-senior-backend-test--fauzi-helmi-
-
 #create table
 
 DROP TABLE IF EXISTS public.busines;
